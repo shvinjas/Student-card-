@@ -1,0 +1,204 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+nav {
+    color: black;
+    font-size: 20px;
+    font-family: Garamond;
+    margin-left: 20px;
+    margin-top: 40px;
+    cursor: pointer;
+    margin-bottom: 0;
+}
+
+.change-home {
+    color: red;
+}
+
+li,
+h1,
+ul {
+
+    display: inline;
+}
+
+ul {
+    margin-left: 30%;
+}
+
+li {
+    padding: 10px
+}
+
+.initiate {
+    font-family: Brush Script MT;
+    font-size: 50PX;
+    margin-left: 30px;
+    color: red;
+}
+
+.button-alum {
+    background-color: #7F00BD;
+    color: white;
+    width: 120px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-radius: 15px;
+    border: none;
+}
+
+li:hover {
+    color: rgb(223, 149, 20);
+}
+
+.button-alum:hover {
+    background-color: chocolate;
+    color: black
+}
+
+.image {
+    margin-top: 50px;
+    margin-left: 60px;
+    width: 900px;
+    height: 120px;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+
+.addressboard {
+    font-family: Garamond;
+    margin-top: 15px;
+    margin-left: 30px;
+    margin-bottom: 0;
+}
+
+form {
+    margin-top: 20px;
+    line-height: 40px;
+}
+
+input {
+    width: 600px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+    border-radius: 10px;
+    border-width: 1px;
+    font-size: 20x;
+    margin-left: ;
+}
+
+.checkbox {
+    box-sizing: border-box;
+    margin-left: 0;
+    text-align: left;
+    display: inline;
+    width: 20px;
+    margin-bottom: 0;
+}
+
+select {
+    width: 620px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+    border-radius: 10px;
+    border-width: 1px;
+    font-size: 20x;
+
+}
+
+.lastbutton {
+    margin-top: 60px;
+    margin-bottom: 40px;
+    margin-left: 30px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Garamond;
+    font-size: 25px;
+    border-radius: 30px;
+    border: none;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+.lastbutton:hover {
+    background-color: white;
+    color: red;
+    border-width: 2px;
+    border-style: solid;
+
+}
+
+.videoinput {
+    text-align: right;
+    display: inline;
+    margin-left: 0%;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    padding-left: 0;
+    width: 620px;
+    height: 300px;
+    border: 2px;
+    border-style: solid;
+    border width: 1px;
+}
+
+.lastbutton:active {
+    padding-right: 1000px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color: red;
+    transition: padding-right 1s;
+}
+
+.lasttbutton {
+    margin-top: 60px;
+    margin-bottom: 40px;
+    margin-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Garamond;
+    font-size: 25px;
+    border-radius: 30px;
+    border: none;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+.lasttbutton:hover {
+    background-color: white;
+    color: red;
+    border-width: 2px;
+    border-style: solid;
+
+}
+
+.required:after {
+    content: "*";
+    color: red;
+
+}
+
+.belowbox {
+    font-size: 14px;
+}
+
+.finaltouch {
+    color: gray;
+}
+
+.story {
+    margin-left: 200px;
+}
