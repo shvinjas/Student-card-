@@ -4,6 +4,8 @@ This repository contains the code for the StudentCard website. The website is de
 
 ![studentcard](https://github.com/shvinjas/Student-card-/assets/112388713/5d13dde9-81b9-4828-99be-80cec2b6867c)
 
+![Screenshot 2024-01-26 203836](https://github.com/shvinjas/Student-card-/assets/112388713/e49084eb-3b0a-4c94-91cb-90a8cf467f87)
+
 
 ## Table of Contents
 Description
