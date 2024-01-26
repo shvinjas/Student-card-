@@ -1,6 +1,10 @@
 # StudentCard Website
 This repository contains the code for the StudentCard website. The website is designed for users to set up their Student Card online and provides a user-friendly interface for the registration process.
 
+
+![studentcard](https://github.com/shvinjas/Student-card-/assets/112388713/5d13dde9-81b9-4828-99be-80cec2b6867c)
+
+
 ## Table of Contents
 Description
 Getting Started
